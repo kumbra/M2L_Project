@@ -1,0 +1,19 @@
+table{
+	border:1px solid white;
+}
+body{
+background-image: url(escrimeur.jpg);
+}
+a:hover{
+	color:white;
+}
+a:active{
+	color:red;
+}
+.img1{
+	margin-top:-15px;
+	margin-right:-10px;
+	height:300px;
+	width:250px;
+	float:right;
+}
