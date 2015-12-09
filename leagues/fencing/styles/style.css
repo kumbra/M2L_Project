@@ -1,23 +1,41 @@
 
 body{
-	width: auto;
-	min-width: 1000px;
 	background-image: url(../images/escrimeur.jpg);
 	background-attachment:fixed;
 
 }
 
+.img1 img
+{
+	height: 100%;
+	width: 100%;
+}
+
+.img1
+{
+	position: fixed;
+	right: 0px;
+	width: 15%;
+}
+
 #mainDiv
 {
-	width: 1000px;
-	margin: auto;
-	margin-left: 50px;
+	padding-left: 15%;
+	padding-right: 15%;
 }
 p{
 	color:white;
 	background-color: rgba(0,0,0,0.8);
-	width:800px;
 }
 div{
 	color:white;
+}
+ul{
+	list-style-type: none;	
+}
+nav{
+	position: fixed;
+	left: 0;
+	width: 15%;
+	background-color: 2f332e;
 }
