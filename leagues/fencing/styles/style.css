@@ -1,4 +1,12 @@
 
 body{
-background-image: url(../images/escrimeur.jpg);
+	width: auto;
+	min-width: 1000px;
+	background-image: url(../images/escrimeur.jpg);
+}
+
+#mainDiv
+{
+	width: 1000px;
+	margin: auto;
 }
